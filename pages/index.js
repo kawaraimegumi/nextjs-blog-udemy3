@@ -23,7 +23,7 @@ export default function Home({ allPostsData }) {
     <Layout home>
       <section className={utilStyles.headingMd}>
         <p>
-          私はフロントエンドエンジニアです/好きなライブラリはVue.jsです
+          私はNextjsエンジニアです/好きなフレームワークはNext.jsです
         </p>
         {/* <Link href="/posts/first-post">最初の投稿はこちら</Link>  あとで外す*/}
       </section>
